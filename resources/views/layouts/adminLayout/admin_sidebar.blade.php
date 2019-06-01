@@ -22,7 +22,7 @@
                     <img src="{{ asset('images/backend_images/avatar5.png') }}" class="img-circle" alt="User Image" />
                 </div>
                 <div class="pull-left info">
-                    <p>Hello, Giorgi</p>
+                    <p>Hello, Gio</p>
 
                     <a href=""><i class="far fa-circle"></i> Online</a>
                 </div>
