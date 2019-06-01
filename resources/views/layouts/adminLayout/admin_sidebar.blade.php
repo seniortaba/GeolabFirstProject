@@ -136,6 +136,6 @@
         </section>
         <!-- /.sidebar -->
     </aside>
-
+</div>
 </body>
 </html>
